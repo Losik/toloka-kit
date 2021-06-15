@@ -5,6 +5,9 @@
 [github_tests_badge]: https://github.com/Toloka/toloka-kit/workflows/Tests/badge.svg?branch=main
 [github_tests_link]: https://github.com/Toloka/toloka-kit/actions?query=workflow:Tests
 
+.. image:: https://codecov.io/gh/Losik/toloka-kit/branch/master/graph/badge.svg
+        :target: https://codecov.io/gh/Losik/toloka-kit
+
 [**<span style="color:red">Documentation</span>**](https://yandex.com/dev/toloka/toloka-kit/doc/)
 
 [Website](https://toloka.ai) |
